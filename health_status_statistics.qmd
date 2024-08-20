@@ -1,0 +1,3 @@
+# Health Status Statistics {.justify}
+
+This section looks at the overall well-being of the Rwandan population looking at health conditions, and health outcomes of individuals within the country. Key indicators pertaining to this include: life expectancy, mortalities, morbidities and risk factors.

@@ -1,0 +1,14 @@
+{
+  "hash": "815e8ef941c278099fc6e698b52f8cd6",
+  "result": {
+    "markdown": "# Laboratory {.unnumbered}\n\nIn the financial year 2023/24, blood smears were the most common lab tests, making up 21% of all lab exams, which was 2,420,155 tests. This was followed by Blood glucose glycemia and Blood Full Blood Count FBC NFS test having a total of 17% lab test. It is worth noting that there were no cases of Ascariasis, Ankylostomiasis, Schistosoma, and Trichuris.\n\nAccording to reported laboratory specimens, 57.6% were blood, 21.7% were Thick Blood Smears and 1.5% of the samples were from sputum.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(readxl)\nlibrary(dplyr)\n\nlaboratory_df <- read_excel(\"data/laboratory_data.xlsx\")\nlaboratory_df <- laboratory_df[c(7:18),c(5:ncol(laboratory_df))] # <1>\nlaboratory_df <- colSums(laboratory_df[,-1])                     # <2>\n```\n:::\n\n\n1.  Select data for the period July 2023 to June 2024 and drop columns with text.\n2.  Sum up the values for all of the columns.\n\n| Type of Exam       | Health Cenre | District Hsopital | Medical Clinic | Referral Hospital | Private Hospital | Specialised Hospital | Total |\n|--------------------|--------------|-------------------|----------------|-------------------|------------------|----------------------|-------|\n| Thick Blood Smears |              |                   |                |                   |                  |                      |       |\n| Stool              |              |                   |                |                   |                  |                      |       |\n| Urine              |              |                   |                |                   |                  |                      |       |\n| Sputum             |              |                   |                |                   |                  |                      |       |\n| Blood              |              |                   |                |                   |                  |                      |       |\n| Other              |              |                   |                |                   |                  |                      |       |\n| Total              |              |                   |                |                   |                  |                      |       |\n| \\%                 |              |                   |                |                   |                  |                      |       |\n\n: Types and Distribution of Laboratory Examinations Conducted During the FY 2023/24\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

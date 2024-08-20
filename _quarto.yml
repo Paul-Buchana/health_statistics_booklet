@@ -1,0 +1,62 @@
+project:
+  type: book
+
+book:
+  title: "Annual Health Sector Statistics Book: Fiscal Year 2023/24"
+  author: "Ministry of Health of Rwanda"
+  date: 07/31/2024
+  date-format: "dddd MMM D, YYYY"
+  chapters:
+    - index.qmd
+    - list_of_tables.qmd
+    - list_of_figures.qmd
+    - acronyms.qmd
+    - intro.qmd
+    # - social_demographic_data.qmd
+    # - part: health_status_statistics.qmd
+    #   chapters:
+    #     - life_expectancy.qmd
+    #     - morbidity_mortality_incidence_and_prevalence_rates.qmd
+    #     - service_coverage.qmd
+    - part: health_sector_resources.qmd
+      chapters: 
+        - health_facilities.qmd
+        - health_facility_equipment_and_utilities.qmd
+        - human_resources.qmd
+    - reproductive_maternal_neonatal_and_child_health_and_nutrition.qmd
+    - part: major_nfectious_diseases.qmd
+      chapters: 
+        - hiv.qmd
+        - tb.qmd
+        - malaria.qmd
+        - hepatitis.qmd
+        - ntds.qmd
+    - ncds.qmd
+    - part: morbidity_and_mortality.qmd
+      chapters:
+        - outpatient_care.qmd
+        - health_facility_outpatient_morbidity.qmd
+        - mortality.qmd
+    - laboratory.qmd
+    - surgery.qmd
+    - radiology.qmd
+    - blood_bank_and_transfusion.qmd
+    - part: pbf.qmd
+      chapters: 
+        - financing_sources_for_pbf_indicators.qmd
+        - evolution_of_pbf_membership_rate.qmd
+    - sources_of_data.qmd
+
+#bibliography: references.bib
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - r4ds.scss
+    mainfont: Gill Sans MT
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

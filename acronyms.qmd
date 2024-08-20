@@ -1,0 +1,63 @@
+# Acronyms {.unnumbered}
+
+|       |                                                         |
+|------:|:--------------------------------------------------------|
+|    AI | Artificial Intelligence                                 |
+|  AIDS | Acquired Immunodeficiency Syndrome                      |
+|   ANC | Antenatal Care ART Antiretroviral Therapy               |
+| ASRHR | Adolescent Sexual and Reproductive Health Rights        |
+|   CAD | Computer Aided Detection                                |
+|   CHW | Community Health Workers                                |
+|  CPAF | Common Performance Assessment Framework                 |
+|   CPR | Contraceptive Prevalence Rate                           |
+|  CSOs | Civil Society Organizations                             |
+|   DDS | District Development Strategies                         |
+|  DHMT | District Health Management Teams                        |
+|   DHU | District Health Unit                                    |
+|   DPs | Development Partners                                    |
+|  eCBS | Electronic Community Event-Based Surveillance System    |
+| eIDSR | Electronic Integrated Disease Surveillance and Response |
+| eLMIS | Electronic Logistics Management Information System      |
+|   EMS | Emergency Medical Services                              |
+|   FDA | Food and Drug Authority                                 |
+|  FETP | Field Epidemiological Training Program                  |
+|   GBD | Global Burden of Disease                                |
+|   GBT | Global Benchmarking Tool                                |
+|   GDP | Gross Domestic Product                                  |
+|   GoR | Government of Rwanda                                    |
+|   GPs | General Practitioners                                   |
+|    HC | Health Centre                                           |
+|   HDI | Human Development Index                                 |
+|   HIV | Human Immunodeficiency Virus                            |
+|    HP | Health Post                                             |
+|  HRTT | Health Resource Tracking Tool                           |
+| HSWGs | Health Sector Working Groups                            |
+|  HVAC | Heating, Ventilation, and Air Conditioning              |
+|   ICT | Information and Communication Technology                |
+|  IMCI | Integrated Management of Childhood Illnesses            |
+| IRCAD | Research Institute against Digestive Cancer             |
+|   IRS | Indoor Residual Spraying                                |
+|  ITNs | Insecticide Treated Nets                                |
+|   M&E | Monitoring and Evaluation                               |
+|   MDA | Mass Drug Administration                                |
+|   MDR | Multidrug Resistance                                    |
+|   MOH | Ministry of Health                                      |
+| NAPHS | National Action Planning for Health Security            |
+|  NCDs | Non-communicable Diseases                               |
+|  NST2 | National Strategy for Transformation 2                  |
+|   PHC | Primary Health Care                                     |
+| PLHIV | Persons Living with Human Immunodeficiency Virus        |
+|   PNC | Prenatal Care PPP Public-Private Partnership            |
+|  RCCE | Risk Communication and Community Engagement             |
+| RPHC5 | Fifth Rwanda Population and Housing Census              |
+|  RSSB | Rwanda Social Security Board                            |
+|  SDGs | Sustainable Development Goals                           |
+|   SRH | Sexual and Reproductive Health                          |
+|   STH | Soil-Transmitted Helminthiasis                          |
+|  STIs | Sexually Transmitted Infections                         |
+|    TB | Tuberculosis                                            |
+|  TWGs | Technical Working Groups                                |
+|   UHC | Universal Health Coverage                               |
+|  VMMC | Voluntary Male Medical Circumcision                     |
+|  WaSH | Water, Sanitation and Hygiene                           |
+|   WHO | World Health Organization                               |

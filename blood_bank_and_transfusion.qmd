@@ -1,0 +1,3 @@
+# Blood Bank and Transfusion {.unnumbered}
+
+In financial year 2023/24, a total of \_ blood units were collected nationally. All units collected (100%) were tested for serelogy (HIV, HBV, HCV, Syphilis) and Immuno-hematology (ABO-RhD). The proportion of units that were initially reactive for HIV positive was \_%. The percentage of those that were reactive for Hepatitis B (HBsAg), Hepatitis C (HCV) and Syphilis were \_%, \_% and \_% respectively.

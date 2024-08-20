@@ -1,0 +1,122 @@
+{
+  "index.qmd": {
+    "index.html": "8e21e5cc"
+  },
+  "intro.qmd": {
+    "intro.html": "b08df3cb"
+  },
+  "summary.qmd": {
+    "summary.html": "99cf3339"
+  },
+  "references.qmd": {
+    "references.html": "729459e9"
+  },
+  "acknowledgements.qmd": {
+    "acknowledgements.html": "8ea3d908"
+  },
+  "list_of_tables.qmd": {
+    "list_of_tables.html": "d2f7a9d0"
+  },
+  "list_of_figures.qmd": {
+    "list_of_figures.html": "487c5418"
+  },
+  "acronyms.qmd": {
+    "acronyms.html": "d11ef7cf"
+  },
+  "social_demographic_data.qmd": {
+    "social_demographic_data.html": "f23c1ba8"
+  },
+  "health_status_statistics.qmd": {
+    "health_status_statistics.html": "3a117519"
+  },
+  "health_system_performance_statistics.qmd": {
+    "health_system_performance_statistics.html": "d41e2256"
+  },
+  "morbidity_and_mortality_incidence_and_prevalence_rates.qmd": {
+    "morbidity_and_mortality_incidence_and_prevalence_rates.html": "652860f6"
+  },
+  "service_coverage.qmd": {
+    "service_coverage.html": "c36c6b55"
+  },
+  "morbidity_mortality_incidence_and_prevalence_rates.qmd": {
+    "morbidity_mortality_incidence_and_prevalence_rates.html": "99f5b07f"
+  },
+  "life_expectancy.qmd": {
+    "life_expectancy.html": "5ddfd0de"
+  },
+  "blood_bank_and_transfusion.qmd": {
+    "blood_bank_and_transfusion.html": "69d10414"
+  },
+  "sources_of_data.qmd": {
+    "sources_of_data.html": "75c50714"
+  },
+  "health_facilities.qmd": {
+    "health_facilities.html": "4234bde1"
+  },
+  "health_sector_resources.qmd": {
+    "health_sector_resources.html": "6bd9f913"
+  },
+  "health_facility_equipment_and_utilities.qmd": {
+    "health_facility_equipment_and_utilities.html": "a04a3acc"
+  },
+  "human_resources.qmd": {
+    "human_resources.html": "72a01d0e"
+  },
+  "reproductive_maternal_eonatal_and_child_health_and_nutrition.qmd": {
+    "reproductive_maternal_eonatal_and_child_health_and_nutrition.html": "e088f45b"
+  },
+  "reproductive_maternal_neonatal_and_child_health_and_nutrition.qmd": {
+    "reproductive_maternal_neonatal_and_child_health_and_nutrition.html": "462419ad"
+  },
+  "major_nfectious_diseases.qmd": {
+    "major_nfectious_diseases.html": "a28141a7"
+  },
+  "hiv.qmd": {
+    "hiv.html": "f8405ac8"
+  },
+  "tb.qmd": {
+    "tb.html": "578d796d"
+  },
+  "malaria.qmd": {
+    "malaria.html": "3212370d"
+  },
+  "hepatitis.qmd": {
+    "hepatitis.html": "6037fd80"
+  },
+  "ntds.qmd": {
+    "ntds.html": "d8c3edf6"
+  },
+  "ncds.qmd": {
+    "ncds.html": "f1810e20"
+  },
+  "morbidity_and_mortality.qmd": {
+    "morbidity_and_mortality.html": "0d9a55c5"
+  },
+  "outpatient_care.qmd": {
+    "outpatient_care.html": "dddd2cd6"
+  },
+  "health_facility_outpatient_morbidity.qmd": {
+    "health_facility_outpatient_morbidity.html": "85da8394"
+  },
+  "mortality.qmd": {
+    "mortality.html": "a751667c"
+  },
+  "laboratory.qmd": {
+    "laboratory.html": "9eb997be"
+  },
+  "surgery.qmd": {
+    "surgery.html": "95484362"
+  },
+  "radiology.qmd": {
+    "radiology.html": "d4c0e771"
+  },
+  "pbf.qmd": {
+    "pbf.html": "79ea9046"
+  },
+  "financing_sources_for_pbf_indicators.qmd": {
+    "financing_sources_for_pbf_indicators.html": "c14c9e75"
+  },
+  "evolution_of_pbf_membership_rate.qmd": {
+    "evolution_of_pbf_membership_rate.html": "f13d35cd"
+  }
+}

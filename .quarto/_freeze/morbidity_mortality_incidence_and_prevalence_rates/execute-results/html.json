@@ -1,0 +1,16 @@
+{
+  "hash": "6642d9dcb4a408fe3b9807267734f31d",
+  "result": {
+    "markdown": "## Morbidity, Mortality, Incidence and Prevalence Rates {.unnumbered}\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "morbidity_mortality_incidence_and_prevalence_rates_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

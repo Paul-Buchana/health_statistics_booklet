@@ -1,0 +1,34 @@
+# Sources of Data {.unnumbered}
+
+**Health Management Information System (RHMIS)**
+
+Rwanda Health Management Information System (R-HMIS) is the main tool for collection, validation, analysis, and presentation of aggregate statistical data for the health sector. It has been implemented using a generic platform (DHIS-2) rather than a custom-developed database application, with an open meta-data model and a flexible user interface that allows the user to design the contents of a specific information system without the need for programming. R-HMIS is a modular web-based software package built with free and open source Java frameworks. Rwanda
+moved the R-HMIS to the DHIS-2 platform in January 2012 so this is the first year that analysis is
+being prepared using this software. The largest data sets reported using his system are the Monthly
+Reports from Hospitals, Health Centers and private health facilities (which only began reporting at
+the end of 2012). Other health information sub-systems also on the RHMIS platform include:
+SISCom, a new quarterly TB reporting module, infant and child death audit reporting.
+
+**National Institute of Statistics Rwanda**
+
+Population denominators have been obtained from the National Institute of Statistics Rwanda (NISR),
+population projections are based upon the 2012 census.
+
+**Tracnet**
+
+Rwanda’s TRACnet is a dynamic phone and web-based information management solution that collects, stores, retrieves, and disseminates critical program, patient, and drug information related to HIV & AIDS care and treatment. Funded through Center for Disease Control/Presidents Emergency Plan for AIDS Relief (CDC/PEPFAR), the system was developed by Voxiva and supports the Government of Rwanda in the rapid expansion of HIV & AIDS clinical services in hospitals and health centers throughout the country. Under the leadership of the MOH and the Treatment and Research AIDS Center (TRAC), TRACnet has increased the efficiency of Rwanda’s HIV & AIDS program management and has enhanced the government’s capacity to monitor the quality of patient care. Deployment of TRACnet started in late 2004 and, as of December 2010, the system has been scaled up to 337 facilities providing care and treatment services to 89,660 ART patients. TRACnet collects HIV & AIDS aggregated data from all health centers providing HIV & AIDS services, with a satisfactory completeness of 90% and timeliness of 62%.
+
+**PBF Database**
+
+PBF uses a web-based database to collect a selected number of mostly output indicators that are used to track progress and calculate performance based payments for CHW cooperatives, health centers, and district hospital. The system also uses data from quarterly quality evaluations to ensure that data and service quality are maintained, and to reduce the performance payment accordingly. The system is in the process of being expanded to integrate community-based services (i.e., community PBF). PBF data is cited occasionally for comparison purposes because the reporting rate is virtually 100% and the data are carefully validated each quarter. Ministry of Health: Annual Health Statistical Booklet 2013
+
+**Community-based Health Insurance (CBHI) Indicator Database**
+
+The community-based health insurance program uses a web-based database to collect a very limited number of indicators that are used to track progress and determine the financial viability of individual CBHI or mutuelle sections. The reporting rate for 2010 was approximately 84% of the 428 mutuelle sections reporting.
+
+Lime Survey
+Lime Survey is an open source internet survey tool that was adapted by the HMIS team to collect information on several key infrastructure and environmental health indicators from data managers in all health centers. It was used in 2012 but has been replaced by the Health Facility Annual Report in 2013. It is currently being used with tablet computers to conduct the accreditation surveys.
+
+**Rwanda Interim DHS 2010 (RDHS)**
+
+A 5thRDHS was carried out in 2010 as a follow-up to four previous surveys that took place in 1992, 2000, and 2005, 2007-8. A nationally representative sample of 13,671 women, age 15-49 from 12,540 surveyed households, and 6,329 men, age 15-59 from half of these households, were interviewed. This represents response rate of 99 percent for women and 99 percent for men. The sample provides estimates at the national and provincial levels. Three questionnaires were administered including a household questionnaire, a women’s questionnaire and a men’s questionnaire. The survey covered demographic characteristics, marital status, birth history, knowledge and use of family planning methods, fertility preferences, antenatal and delivery care, breastfeeding practices, vaccination and childhood illnesses, male circumcision, and blood testing for anemia and malaria
